@@ -21,7 +21,6 @@ public class HavenBot {
 
     public static final String ICON_URL = "https://cdn.discordapp.com/avatars/1349532999309328455/54efad6155cc0872cc790801835308d2?size=256";
     public static final String POWERED_BY = "Powered By Starhaven";
-    public static final String COLLABORATION = "In collaboration with BetaBoys";
 
     private static final Logger logger = LoggerFactory.getLogger(HavenBot.class);
     private static final Dotenv config = Dotenv.configure().load();

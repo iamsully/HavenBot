@@ -13,6 +13,6 @@ public class ReadyListener extends ListenerAdapter {
      */
     @Override
     public void onReady(ReadyEvent event) {
-        HavenBot.getLogger().info("HavenBot is now online");
+        HavenBot.getLogger().info("Haven is now online");
     }
 }
